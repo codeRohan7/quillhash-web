@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="53.333" height="48" viewBox="0 0 53.333 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="53.333" height="48" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ebc" transform="translate(-387 -2830)">
+    <g id="_24_basic_case" data-name="24 / basic / case" transform="translate(387 2830)" clip-path="url(#clip-path)">
+      <path id="icon" d="M48,48H5.333A5.339,5.339,0,0,1,0,42.667V13.334A5.34,5.34,0,0,1,5.333,8H16V5.333A5.339,5.339,0,0,1,21.334,0H32a5.34,5.34,0,0,1,5.335,5.333V8H48a5.34,5.34,0,0,1,5.333,5.335V42.667A5.339,5.339,0,0,1,48,48ZM5.333,32V42.667H48V32H29.333v2.666H24V32Zm0-18.665V26.666H48V13.334H5.333Zm16-8V8H32V5.333Z" transform="translate(0)" fill="#082865"/>
+    </g>
+  </g>
+</svg>

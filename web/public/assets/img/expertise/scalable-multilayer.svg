@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="48" height="48" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="multilayer" transform="translate(-930 -3278)">
+    <g id="_24_grid_stack" data-name="24 / grid / stack" transform="translate(930 3278)" clip-path="url(#clip-path)">
+      <path id="icon" d="M4.8,48A4.806,4.806,0,0,1,0,43.2v-24a4.806,4.806,0,0,1,4.8-4.8h24a4.806,4.806,0,0,1,4.8,4.8v24A4.806,4.806,0,0,1,28.8,48Zm0-4.8h24v-24H4.8ZM36,14.4A2.4,2.4,0,0,0,33.6,12H7.2A4.8,4.8,0,0,1,12,7.2H36A4.8,4.8,0,0,1,40.8,12V36A4.8,4.8,0,0,1,36,40.8Zm7.2-7.2a2.4,2.4,0,0,0-2.4-2.4H14.4A4.8,4.8,0,0,1,19.2,0h24A4.8,4.8,0,0,1,48,4.8v24a4.8,4.8,0,0,1-4.8,4.8Z" fill="#082865"/>
+    </g>
+  </g>
+</svg>

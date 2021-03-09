@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="48" height="48" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="sca" transform="translate(-1469 -2830)">
+    <g id="_24_file_note-text" data-name="24 / file / note-text" transform="translate(1469 2830)" clip-path="url(#clip-path)">
+      <path id="icon" d="M4.8,48A4.806,4.806,0,0,1,0,43.2V4.8A4.806,4.806,0,0,1,4.8,0H43.2A4.806,4.806,0,0,1,48,4.8v32.2L36.995,48Zm0-4.8H31.2V36A4.8,4.8,0,0,1,36,31.2h7.2V4.8H4.8Zm31.2-1L42.2,36H36ZM12,36V31.2H26.4V36Zm0-9.6V21.6H36v4.8Zm0-9.6V12H36v4.8Z" fill="#082865"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg id="estate" xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Bounding_Box">
+    <rect id="Rectangle_606" data-name="Rectangle 606" width="96" height="96" fill="none"/>
+  </g>
+  <g id="Master" transform="translate(3 3)">
+    <path id="Path_1224" data-name="Path 1224" d="M73,43V3H23V23H3V93H43V73H53V93H93V43ZM23,83H13V73H23Zm0-20H13V53H23Zm0-20H13V33H23ZM43,63H33V53H43Zm0-20H33V33H43Zm0-20H33V13H43ZM63,63H53V53H63Zm0-20H53V33H63Zm0-20H53V13H63ZM83,83H73V73H83Zm0-20H73V53H83Z" transform="translate(-3 -3)" fill="#082865"/>
+  </g>
+</svg>

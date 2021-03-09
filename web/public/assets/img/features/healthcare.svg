@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="264" viewBox="0 0 264 264">
+  <g id="healthcare" transform="translate(-11800 -7617)">
+    <g id="Group_1478" data-name="Group 1478" transform="translate(11807 7624)">
+      <path id="Path_3461" data-name="Path 3461" d="M236.391,12H13.609A10.609,10.609,0,0,0,3,22.609V197.652a10.609,10.609,0,0,0,10.609,10.609H236.391A10.609,10.609,0,0,0,247,197.652V22.609A10.609,10.609,0,0,0,236.391,12Z" transform="translate(0 38.739)" fill="none" stroke="#010920" stroke-miterlimit="10" stroke-width="6"/>
+      <path id="Path_3462" data-name="Path 3462" d="M141.3,50.739V13.609A10.609,10.609,0,0,0,130.7,3H24.609A10.609,10.609,0,0,0,14,13.609v37.13" transform="translate(47.348 0)" fill="none" stroke="#010920" stroke-miterlimit="10" stroke-width="6"/>
+      <ellipse id="Ellipse_233" data-name="Ellipse 233" cx="58" cy="58.563" rx="58" ry="58.563" transform="translate(67.194 87.466)" fill="none" stroke="#010920" stroke-miterlimit="10" stroke-width="6"/>
+      <g id="Group_1476" data-name="Group 1476" transform="translate(124.63 108.864)">
+        <line id="Line_88" data-name="Line 88" y2="74.33" transform="translate(0 0)" fill="none" stroke="#010920" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      </g>
+      <g id="Group_1477" data-name="Group 1477" transform="translate(87.466 146.028)">
+        <line id="Line_89" data-name="Line 89" x1="74.33" transform="translate(0)" fill="none" stroke="#010920" stroke-linecap="round" stroke-miterlimit="10" stroke-width="6"/>
+      </g>
+    </g>
+    <rect id="Rectangle_1381" data-name="Rectangle 1381" width="264" height="264" transform="translate(11800 7617)" fill="none"/>
+  </g>
+</svg>

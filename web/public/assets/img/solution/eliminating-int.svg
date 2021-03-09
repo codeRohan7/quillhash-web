@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="110" height="110" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_24_basic_eliminating-int" data-name="24 / basic /eliminating-int" transform="translate(110) rotate(90)" clip-path="url(#clip-path)">
+    <path id="icon" d="M88,110A22.011,22.011,0,0,1,66.484,83.393L38.6,69.444a22,22,0,1,1,0-28.888L66.484,26.611A22,22,0,1,1,88,44a22.009,22.009,0,0,1-16.593-7.554L43.516,50.392a22.133,22.133,0,0,1,0,9.217L71.4,73.553A22,22,0,1,1,88,110Zm0-33A11,11,0,1,0,99,88,11.011,11.011,0,0,0,88,77ZM22,44A11,11,0,1,0,33,55,11.011,11.011,0,0,0,22,44ZM88,11A11,11,0,1,0,99,22,11.011,11.011,0,0,0,88,11Z" transform="translate(0 0)" fill="#082865"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.793" height="48" viewBox="0 0 48.793 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="48.793" height="48" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="scd" transform="translate(-930 -2830)">
+    <g id="_24_finance_wallet" data-name="24 / finance / wallet" transform="translate(930 2830)" clip-path="url(#clip-path)">
+      <path id="icon" d="M4.879,48A4.879,4.879,0,0,1,0,43.121H.066A4.842,4.842,0,0,1,0,42.326V13.244a4.9,4.9,0,0,1,3.539-4.69L32.815.189a4.882,4.882,0,0,1,6.22,4.692v29.08A4.9,4.9,0,0,1,35.5,38.653L19.855,43.121H43.914V23.6H39.035V18.725h4.879V13.844H39.035V8.965h4.879a4.879,4.879,0,0,1,4.879,4.879V43.121A4.879,4.879,0,0,1,43.914,48Zm0-34.756V42.326l29.277-8.366V4.881ZM24.4,18.725a2.439,2.439,0,1,1,2.439,2.439A2.442,2.442,0,0,1,24.4,18.725Z" fill="#082865"/>
+    </g>
+  </g>
+</svg>

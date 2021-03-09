@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="87" height="87" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_24_maps_radar" data-name="24 / maps / radar" clip-path="url(#clip-path)">
+    <path id="icon" d="M87,43.5A43.5,43.5,0,0,0,12.738,12.742l5.595,5.591A35.589,35.589,0,1,1,8.126,47.454H16.1a27.691,27.691,0,1,0,7.827-23.526l5.591,5.591a19.772,19.772,0,1,1-5.395,17.935h8.188a11.868,11.868,0,1,0,2.8-12.343l4.432,4.435H0v7.908H.177A43.5,43.5,0,0,0,87,43.5ZM43.5,39.546Z" transform="translate(87) rotate(90)" fill="#082865"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78.547" height="96" viewBox="0 0 78.547 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="78.547" height="96" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="protocols" clip-path="url(#clip-path)">
+    <path id="icon" d="M69.825,96h0V87.273h8.727A8.737,8.737,0,0,1,69.825,96Zm-8.731,0h-8.73V87.273h8.73V96ZM43.637,96H34.91V87.273h8.727V96ZM26.184,96h-8.73V87.273h8.73V96ZM8.727,96h0A8.737,8.737,0,0,1,0,87.273H8.727V96Zm69.82-17.453H69.82V69.82h8.727v8.727Zm-69.82,0H0V69.82H8.727v8.727Zm69.82-17.453H69.82v-8.73h8.727v8.73Zm-69.82,0H0v-8.73H8.727v8.73Zm0-17.453h0L0,43.637V8.727A8.736,8.736,0,0,1,8.727,0H54.174L78.547,24.373V43.632l-8.727,0V34.91H52.363a8.736,8.736,0,0,1-8.727-8.727V8.727H8.727V43.641ZM52.363,10.533v15.65h15.65Z" transform="translate(0 0)" fill="#082865"/>
+  </g>
+</svg>

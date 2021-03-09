@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="96" height="96" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="smart-contracts" transform="translate(-1469 -2830)">
+    <g id="_24_file_note-text" data-name="24 / file / note-text" transform="translate(1469 2830)" clip-path="url(#clip-path)">
+      <path id="icon" d="M9.6,96A9.611,9.611,0,0,1,0,86.4V9.6A9.611,9.611,0,0,1,9.6,0H86.4A9.611,9.611,0,0,1,96,9.6v64.39L73.989,96Zm0-9.6H62.4V72A9.6,9.6,0,0,1,72,62.4H86.4V9.6H9.6ZM72,84.409,84.409,72H72ZM24,72V62.4H52.8V72Zm0-19.2V43.2H72v9.6Zm0-19.2V24H72v9.6Z" transform="translate(0 0)" fill="#082865"/>
+    </g>
+  </g>
+</svg>

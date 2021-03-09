@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="110" height="110" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_24_security_ownership" data-name="24 / security /ownership" clip-path="url(#clip-path)">
+    <path id="icon" d="M16.11,93.89A55,55,0,1,1,93.89,16.11,55,55,0,1,1,16.11,93.89ZM10,55A45,45,0,1,0,55,10,45.052,45.052,0,0,0,10,55ZM40,85A10.012,10.012,0,0,1,30,75V55A10.012,10.012,0,0,1,40,45V35a15,15,0,1,1,30,0V45A10.012,10.012,0,0,1,80,55V75A10.012,10.012,0,0,1,70,85Zm0-10H70V55H40ZM50,35V45H60V35a5,5,0,1,0-10,0Zm0,30a5,5,0,1,1,5,5A5,5,0,0,1,50,65Z" fill="#082865"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="87" height="87" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="decentralized" transform="translate(-390.292 -3726.293)">
+    <g id="_24_basic_minimize" data-name="24 / basic / minimize" transform="translate(390.293 3726.293)" clip-path="url(#clip-path)">
+      <path id="icon" d="M0,80.664,19.238,61.426H3.17V52.464H34.536v31.37H25.574V67.762L6.336,87Zm43.5-5.8V65.906h22.4V43.5h8.962V74.868ZM12.132,43.5V12.132H43.5v8.962H21.094V43.5Zm40.332-8.966V3.17h8.962V19.238L80.664,0,87,6.336,67.762,25.574H83.834v8.962Z" fill="#082865"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="264" height="264" viewBox="0 0 264 264">
+  <g id="consumer-goods" transform="translate(-11034 -7627)">
+    <g id="Group_1463" data-name="Group 1463" transform="translate(11033 7620.614)">
+      <path id="Path_3453" data-name="Path 3453" d="M198.212,213.4H98.795a37.1,37.1,0,0,0-23.546-25.789V35.126L34.137,17.187a11.865,11.865,0,0,0-14.95,5.98,11.291,11.291,0,0,0,5.98,14.576L52.824,49.7V186.868A37.4,37.4,0,0,0,72.633,259a37.566,37.566,0,0,0,25.415-23.172h90.073l11.586,13.829a11.175,11.175,0,0,0,8.6,4.111,13.91,13.91,0,0,0,7.475-2.616,11.645,11.645,0,0,0,1.121-16.071ZM62.541,237.7a14.95,14.95,0,1,1,14.95-14.95A14.994,14.994,0,0,1,62.541,237.7Z" transform="translate(0 0)" fill="none" stroke="#010920" stroke-width="6"/>
+      <path id="Path_3454" data-name="Path 3454" d="M39.6,27.1V160.822H184.164V27.1H39.6ZM162.48,139.137H61.285V48.785H162.48Z" transform="translate(63.008 29.33)" fill="none" stroke="#010920" stroke-linejoin="round" stroke-width="6"/>
+      <rect id="Rectangle_1377" data-name="Rectangle 1377" width="28.994" height="19.329" transform="translate(141.436 93.805)" fill="none" stroke="#010920" stroke-linejoin="round" stroke-width="6"/>
+      <rect id="Rectangle_1378" data-name="Rectangle 1378" width="51.545" height="19.329" transform="translate(141.436 132.463)" fill="none" stroke="#010920" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <rect id="Rectangle_1379" data-name="Rectangle 1379" width="264" height="264" transform="translate(11034 7627)" fill="none"/>
+  </g>
+</svg>

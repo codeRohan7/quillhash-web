@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="86.225" height="77" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="webapp" transform="translate(-1569 -901)">
+    <g id="_16_browser" data-name="16 / browser" transform="translate(1569 906)" clip-path="url(#clip-path)">
+      <path id="icon" d="M10.777,77A10.9,10.9,0,0,1,0,66V11A10.9,10.9,0,0,1,10.777,0H75.448A10.9,10.9,0,0,1,86.225,11V66A10.9,10.9,0,0,1,75.448,77Zm0-11H75.448V27.5H10.777ZM75.448,16.5V11H10.777v5.5Z" fill="#082865"/>
+    </g>
+    <rect id="Rectangle_812" data-name="Rectangle 812" width="87" height="87" transform="translate(1569 901)" fill="none"/>
+  </g>
+</svg>

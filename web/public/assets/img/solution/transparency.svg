@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="110" height="110" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="transparency" clip-path="url(#clip-path)">
+    <path id="icon" d="M16.11,93.89A55,55,0,1,1,93.89,16.11,55,55,0,1,1,16.11,93.89ZM10,55a45.052,45.052,0,0,0,45,45V10A45.052,45.052,0,0,0,10,55ZM65,98.881a44.656,44.656,0,0,0,10-3.575V14.694a44.657,44.657,0,0,0-10-3.575ZM85,88.513A45.283,45.283,0,0,0,95,75.6V34.4a45.283,45.283,0,0,0-10-12.91Z" fill="#082865"/>
+  </g>
+</svg>

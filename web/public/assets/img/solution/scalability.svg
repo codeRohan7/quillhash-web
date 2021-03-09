@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="48" height="26" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="scalability" transform="translate(-924 -3463)">
+    <g id="_24_grid_ruller" data-name="24 / grid / ruller" transform="translate(924 3474)" clip-path="url(#clip-path)">
+      <path id="icon" d="M4.363,26A4.354,4.354,0,0,1,0,21.667V4.333A4.354,4.354,0,0,1,4.363,0H43.637A4.354,4.354,0,0,1,48,4.333V21.667A4.354,4.354,0,0,1,43.637,26Zm0-4.333H43.637V4.333H4.363Zm30.547-6.5V4.333h4.363V15.167Zm-17.455,0V4.333h4.363V15.167Zm8.727-4.333v-6.5h4.365v6.5Zm-17.455,0v-6.5h4.365v6.5Z" transform="translate(0)" fill="#082865"/>
+    </g>
+    <rect id="Rectangle_669" data-name="Rectangle 669" width="48" height="48" transform="translate(924 3463)" fill="none"/>
+  </g>
+</svg>

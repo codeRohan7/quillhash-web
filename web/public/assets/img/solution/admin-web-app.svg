@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="86.109" height="71" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="admin-web-app" transform="translate(-15068 6687)">
+    <g id="_24_basic_bar-chart" data-name="24 / basic / bar-chart" transform="translate(15068 -6679)" clip-path="url(#clip-path)">
+      <path id="icon" d="M7.827,71A7.868,7.868,0,0,1,0,63.112V7.888A7.868,7.868,0,0,1,7.827,0H78.282a7.868,7.868,0,0,1,7.827,7.888V63.112A7.868,7.868,0,0,1,78.282,71Zm0-7.888H78.282V7.888H7.827ZM54.8,55.224V27.612h7.827V55.224Zm-15.659,0V15.776h7.827V55.224Zm-15.655,0V31.556h7.827V55.224Z" fill="#082865"/>
+    </g>
+    <rect id="Rectangle_840" data-name="Rectangle 840" width="87" height="87" transform="translate(15068 -6687)" fill="none"/>
+  </g>
+</svg>

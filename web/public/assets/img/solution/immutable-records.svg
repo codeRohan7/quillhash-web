@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90.002" height="110" viewBox="0 0 90.002 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="90.002" height="110" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="immutable-records" clip-path="url(#clip-path)">
+    <path id="icon" d="M80,110H10A10.011,10.011,0,0,1,0,100V25A10.013,10.013,0,0,1,10,15h5A10.016,10.016,0,0,1,25,5H29.98C33.731,1.823,39.207,0,45,0S56.27,1.822,60.022,5H65A10.013,10.013,0,0,1,75,15h5A10.013,10.013,0,0,1,90,25v75A10.011,10.011,0,0,1,80,110ZM10,25v75H80V25H73.662A10.04,10.04,0,0,1,65,30H25a10.037,10.037,0,0,1-8.663-5ZM25,15v5H65V15H55.711l-1.494-1.724C52.487,11.285,48.87,10,45,10s-7.487,1.286-9.216,3.276L34.291,15H25ZM55,75H25V65H55V75ZM65,55H25V45H65V55Z" transform="translate(0 0)" fill="#082865"/>
+  </g>
+</svg>

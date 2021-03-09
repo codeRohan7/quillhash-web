@@ -1,0 +1,3 @@
+User-agent: *
+disallow:/blockchain/cardano-development
+disallow:/industries/supplychainiot

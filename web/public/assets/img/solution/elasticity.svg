@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="109.667" height="60" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="elasticity" transform="translate(-843 -1486)">
+    <rect id="Rectangle_675" data-name="Rectangle 675" width="110" height="110" transform="translate(843 1486)" fill="none"/>
+    <g id="_24_various_infinity" data-name="24 / various / infinity" transform="translate(843 1511)" clip-path="url(#clip-path)">
+      <path id="icon" d="M64.281,17.472a57.1,57.1,0,0,0-5.524-8.655c.636-.654,1.176-1.2,1.5-1.511C65.637,2.166,70.938,0,79.758,0a30,30,0,0,1,0,60c-14.219,0-20.26-7.419-29.47-27.948C42.674,15.081,38.537,10,29.909,10a20,20,0,0,0,0,40c5.2,0,11.417-2.075,16.845-5.013a43.628,43.628,0,0,0,5.869,8.173C45.633,57.154,37.442,60,29.909,60a30,30,0,0,1,0-60c14.219,0,20.26,7.419,29.47,27.948C66.993,44.919,71.13,50,79.758,50a20,20,0,0,0,0-40c-6.236,0-9.083,1.163-12.624,4.547-.468.447-1.634,1.655-2.852,2.925Z" fill="#082865"/>
+    </g>
+  </g>
+</svg>

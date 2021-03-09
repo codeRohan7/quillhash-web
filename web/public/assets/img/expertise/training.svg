@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="48" height="48" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="training" transform="translate(-1469 -3726)">
+    <g id="_24_basic_presentation" data-name="24 / basic / presentation" transform="translate(1469 3726)" clip-path="url(#clip-path)">
+      <path id="icon" d="M26.4,48H21.6V42.639l-8.366,5.02-2.469-4.117,10.835-6.5V33.6H7.2a4.806,4.806,0,0,1-4.8-4.8V4.8H0V0H48V4.8H45.6v24a4.806,4.806,0,0,1-4.8,4.8H26.4v3.441l10.835,6.5-2.469,4.117L26.4,42.639V48ZM7.2,28.8H40.8V4.8H7.2ZM28.8,24V16.8h4.8V24Zm-7.2,0V9.6h4.8V24Zm-7.2,0V14.4h4.8V24Z" fill="#082865"/>
+    </g>
+  </g>
+</svg>

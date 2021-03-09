@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="110" height="110" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_24_symbols_command" data-name="24 / symbols / command" clip-path="url(#clip-path)">
+    <path id="icon" d="M88,110A22.025,22.025,0,0,1,66,88V77H44V88A22,22,0,1,1,22,66H33V44H22A22,22,0,1,1,44,22V33H66V22A22,22,0,1,1,88,44H77V66H88a22,22,0,0,1,0,44ZM77,77V88A11,11,0,1,0,88,77ZM22,77A11,11,0,1,0,33,88V77ZM44,44V66H66V44ZM88,11A11.011,11.011,0,0,0,77,22V33H88a11,11,0,0,0,0-22ZM22,11a11,11,0,0,0,0,22H33V22A11.014,11.014,0,0,0,22,11Z" transform="translate(0 0)" fill="#082865"/>
+  </g>
+</svg>

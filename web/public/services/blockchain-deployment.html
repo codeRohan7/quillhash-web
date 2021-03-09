@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Quillhash is a leading blockchain as a service company, we offer Blockchain platform, interfaces, infrastructure and network,  and security and analytics">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="PxyB-EKCLnv1EPOikMy2xbsPEbW18g5FIEKomR9HcNs" />
+<meta property="og:url" content="https://www.quillhash.com/blockchain-deployment">
+    <meta property="og:type" content="website">
+   <meta property="og:title" content="Quillhash Developers | Blockchain As a Service (BAAS)">
+    <meta property="og:description" content="Quillhash is a leading blockchain as a service company, we offer Blockchain platform, interfaces, infrastructure and network,  and security and analytics">
+    <meta property="og:image" content="https://www.quillhash.com/assets/img/opengraph.jpg">
+    <meta property="og:image:secure_url" content="https://www.quillhash.com/assets/img/opengraph.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@QuillHash">
+    <meta name="twitter:creator" content="@QuillHash">
+    <meta name="twitter:title" content="Quillhash Developers | Blockchain As a Service (BAAS)">
+    <meta name="twitter:description" content="Quillhash is a leading blockchain as a service company, we offer Blockchain platform, interfaces, infrastructure and network,  and security and analytics">
+    <meta name="twitter:image" content="https://www.quillhash.com/assets/img/opengraph.jpg">
+    <title>Quillhash Developers | Blockchain As a Service (BAAS)</title>
+<meta name="keywords" content="Deployment of blockchain, blockchain deployment, deployment of blockchain nodes, blockchain nodes, deploying blockchain templates, deploying blockchain, baas, hyperledger fabric member, Blockchain Service, BAAS, Blockchain as a Service">
+    <meta name="author" content="QuillHash">
+    <link rel="canonical preconnect" href="https://www.quillhash.com/blockchain-deployment">
+
+    <script async defer>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KJPQTRR');</script>
+    <!-- End Google Tag Manager -->
+    
+    <script async defer>(function(w, d) { w.CollectId = "5b51c8c42b9d7bd5e5f7f186"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+
+     <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.quillhash.com/blockchain-deployment",
+  "logo": "https://www.quillhash.com/assets/img/quill-logo-blue.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+91 8130096886",
+    "contactType": "customer service"
+  }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Quillhash Technologies",
+  "url": "https://www.quillhash.com/",
+  "sameAs": [
+    "https://github.com/quillhash",
+    "https://www.facebook.com/quillhash/",
+    "https://twitter.com/QuillHash",
+    "https://www.linkedin.com/company/quillhash/",
+    "https://www.youtube.com/channel/UC5Yt_8qEaAr-PiTMmGBuPCQ/",
+    "https://t.me/quillhash",
+    "https://medium.com/quillhash",
+    "https://www.instagram.com/quillhash/"
+  ]  
+}
+</script>
+
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [{
+"@type": "Question",
+"name": "What is Blockchain as a Service?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Blockchain as a service is cloud-based software service which gives leverage to customers to build, host and use their own blockchain apps, smart contracts, and functions on the blockchain while the cloud-based service provider manages all the necessary tasks and activities to keep the infrastructure agile and operational."}
+}, {
+"@type": "Question",
+"name": "Why Do Businesses and Organizations Need Blockchain as a Service (BaaS)?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Blockchain-as-a-service models have succeeded in making blockchain development simpler and safe for organizations whose core competencies are in fields, but not in IT. Using this new model can help organizations focus more on their core areas while worrying less about the development space."}
+}, {
+"@type": "Question",
+"name": "How using of Blockchain as a Service (BAAS) are Beneficial?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Using BaaS is beneficial as it offers a wide array of consensus mechanisms, provides an easy solution to your complex deployment, as it easy to manage permission levels, nodes and keys from one single control panel and costs comparatively lower than building a blockchain app from scratch."}
+}, {
+"@type": "Question",
+"name": "How to select right BaaS platform?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Before you go ahead into Blockchain as a Service integration, you should know which provider can provide you with the right type of solution.
+
+A. Backend services like data security, costing control, integrating with network architecture, scalable process control.
+
+B. Rapid provisioning provides the ability to deploy blockchain networks quickly without any issues."}
+}, {
+"@type": "Question",
+"name": "How Does Blockchain as a Service (BaaS) Work?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text":"BaaS is when an external service provider sets up all the necessary “blockchain technology and infrastructure” for a customer for a fee. By paying for BaaS, a client pays the BaaS provider to set up and maintain blockchain connected nodes on their behalf. A BaaS provider handles the complex back-end for the client and their business. Well, we follow an intensive development process by keeping the cost minimal to ensure the best result."}
+}]
+}
+</script>
+
+  <link href="../assets/img/144x144.png" rel="icon prefetch">
+  <link href="../assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet prefetch">
+  <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="../assets/lib/animate/animate.min.css" rel="stylesheet prefetch">
+  <link href="../assets/css/style-min.css" rel="stylesheet prefetch">
+  <link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet dns-prefetch">
+  <link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet dns-prefetch">
+</head>
+
+<body>
+
+<div class="top-area">
+        <div class="container-fluid">
+          <div class="announcement text-center">
+            <p>We're excited to publicly announce what we’ve been working on Supply-Chain management! <span> <a href="https://trace.quillhash.com/" target="_blank"> Read more</a></span></p>
+          </div>
+        </div>
+      </div>
+  <!--==========================
+  Header
+  ============================-->
+  <header id="header" class="fixed-top">
+    <div class="container-fluid">
+
+       <div class="logo float-left">
+      <a href="/" class="scrollto logo-first"><img src="../assets/img/quill-logo-white.png" alt="Quillhash Logo" class="img-fluid"></a>
+      <a href="/" class="scrollto logo-second"><img src="../assets/img/quill-logo-blue.png" alt="Quillhash Logo" class="img-fluid"></a>
+      </div>
+
+     <nav class="main-nav float-right d-none d-lg-block">
+        <ul>
+          <!-- <li class="drop-down"><a href="#">Company</a>
+          <ul>
+              <li><a href="">About us</a></li>
+              <li><a href="/quillhash-labs">Quillhash Labs</a></li>
+               <li><a href="/clients-and-partners">Clients And Partners</a></li>
+               <li><a href="/careers">Careers</a></li>
+               <li><a href="/portfolio">Our Portfolio</a></li>
+            </ul>
+        </li> -->
+          <li class="drop-down"><a href="#">Products</a>
+        <ul>
+              <li><a href="https://trace.quillhash.com/" rel="nofollow noopener" aria-label="QuillTrace" target="_blank">QuillTrace</a></li>
+              <li><a href="https://audits.quillhash.com/smart-contract-audit" rel="nofollow noopener" aria-label="QuillAudits" target="_blank">QuillAudits</a></li>
+              <li><a href="https://dnft.quillhash.com/" rel="nofollow noopener" aria-label="dNFT" target="_blank">dNFT</a></li>
+              <li><a href="https://tokenic.quillhash.com/tokensale-platform" rel="nofollow noopener" aria-label="Tokenic" target="_blank">Tokenic</a></li>  
+              <!-- <li><a href="https://chakra.quillhash.com/smart-contracts" rel="nofollow noopener" aria-label="QuillChakra" target="_blank">QuillChakra</a></li> -->
+              </ul>
+        </li>
+          <li class="drop-down"><a href="/blockchain-services">Blockchain</a>
+          <ul>
+              <li><a href="/blockchain-consulting">Blockchain Consultancy</a></li>
+              <li><a href="/ethereum-development">Ethereum Development</a></li>
+              <li><a href="/quorum-development">Quorum Development</a></li>
+              <li class="drop-down"><a href="#">Hyperledger</a>
+               <ul> 
+              <li><a href="/hyperledger-fabric-development">Hyperledger Fabric</a></li>
+              <li><a href="/hyperledger-development-services">Hyperledger Services</a></li>
+              <li><a href="/hyperledger-sawtooth-development">Hyperledger Sawtooth</a></li>
+              </ul>
+            </li>
+            <li><a href="/proof-of-concept">POC Development</a></li>
+              <li><a href="/eos-blockchain-development">EOS Development</a></li>
+              <li><a href="/zrx-development">ZRX Protocol Development</a></li>
+              <li><a href="/non-fungible-tokens">NFT Development</a></li>
+              <li><a href="/stellar-development">Stellar Development</a></li>
+              <li><a href="/blockchain-game-development">Games Development</a></li>
+              <li><a href="/stablecoin-development">Stablecoin Development</a></li>
+              <li><a href="/blockchain-deployment">Blockchain Deployment</a></li>
+            </ul>
+        </li>
+        <li class="drop-down"><a href="#">Cryptocurrency</a>
+          <ul>
+            <li><a href="/crypto-wallet-company">Wallet Development</a></li>
+            <li><a href="/cryptocurrency-exchange-software">Exchange Development</a></li>
+            <li><a href="/cryptocurrency-payment-gateway">Crypto Payment Gateway</a></li>
+            </ul>
+        </li>
+        <li class="drop-down"><a href="/blockchain-industries">Industries</a>
+          <ul>
+              <li><a href="/blockchain-supply-chain">Supply Chain & IOT</a></li>
+              <li><a href="/blockchain-loyalty-program">Retail</a></li>
+              <li><a href="/blockchain-art-authentication">Art</a></li>
+              <li><a href="/blockchain-intellectual-property-rights">IP Rights</a></li>
+              <li><a href="/blockchain-in-healthcare">Healthcare</a></li>
+              <li><a href="/blockchain-for-telecom">Telecom</a></li>
+              <li><a href="/blockchain-decentralised-financial-markets">Financial Markets</a></li>
+              <li><a href="/blockchain-decentralised-music">Music</a></li>
+            </ul>
+        </li>
+        <li><a href="/case-studies">Case Studies</a></li>
+        <li><a href="#faqs">FAQs</a></li>
+          <li><a href="https://medium.com/quillhash" rel="nofollow noopener" target="_blank">Blogs</a></li>
+          <li class="drop-down"><a href="#">Company</a>
+          <ul>
+            <li><a href="/about-us">About Us</a></li>
+            <li><a href="/news">News</a></li>
+            <li><a href="/careers">Careers</a></li>
+            <li><a href="https://medium.com/quillhash" rel="nofollow noopener" target="_blank">Blogs</a></li>
+            </ul>
+        </li>
+          <button class="telegram-connect"><a href="https://quillhash.typeform.com/to/KQ5Hhm" rel="nofollow noopener" target="_blank">Connect with us</a></button>
+        </ul>
+      </nav><!-- .main-nav -->
+      
+    </div>
+  </header><!-- #header -->
+
+  <section id="deployment" class="clearfix">
+    <div class="container-fluid">
+      <div class="scp-breadcrumb">
+    <ul class="breadcrumb">
+        <li><a href="/"> Home </a> / </li>
+        <li><a href="/blockchain-services"> Services </a> / </li>
+        <li class="active"> Blockchain Deployment </li>
+    </ul>
+</div>
+      <div class="col-lg-6 col-md-12 col-sm-12 col-12">
+      <div class="company-info">
+        <h1><span>Blockchain as a Service</span><br> (BaaS) Company</h1>
+        <p class="about-text">Build and deploy varieties of blockchain network</p>
+           <div class="banner-buttons">
+          <a href="https://quillhash.typeform.com/to/KQ5Hhm" rel="nofollow noopener" target="_blank" class="btn-get-started scrollto">Start a Project</a>
+        </div>
+
+      </div>
+</div>
+    </div>
+  </section>
+
+
+  <section id="clients" class="quill-clients">
+      <div class="container-fluid">
+        <div class="section-bottom">
+        <header class="section-header text-center">
+          <h2>Our Blockchain Deployment Partners</h2>
+          <div class="bottom-border"></div>
+        </header>
+    </div>
+</div>
+        <div class="container-fluid wow fadeInUp text-center">
+          <div class="row">
+      <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+        <div class="partner-client"><img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/partners/aws.svg" alt="aws" class="img-fluid lazy">
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+        <div class="partner-client"><img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/partners/azure.svg" alt="azure" class="img-fluid lazy">
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+        <div class="partner-client"><img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/partners/google-cloud.svg" alt="google-cloud" class="img-fluid lazy">
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-12">
+        <div class="partner-client"><img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/partners/kaleido.svg" alt="kaleido" class="img-fluid lazy">
+        </div>
+      </div>
+      </div>
+    </div>
+</section>
+
+
+  <section>
+      <div class="container-fluid text-center">
+        <header class="service-blockchain text-center ">
+          <h2>Why Blockchain Deployment?</h2>
+          <div class="bottom-border"></div>
+          <p>Quilhash Technologies deployment service helps to build and deploy varieties of blockchain network with the help of our automated deploying templates without writing any code.You can deploy ethereum Proof of authority based networks, hyperledger fabric permissioned networks and corda distributed ledger platform with in minutes by utilizing our platform.You can also monitor the performance of your nodes with our dashboard and take suitable actions to scale the network.</p>
+        </header>
+  </div>
+</section>
+
+  <section>
+    <div class="container-fluid">
+      <div class="row">
+        <header class="col-md-12 section-header text-center">
+          <h2>Our Deployment service features</h2>
+          <div class="bottom-border"></div>
+        </header>
+      </div>
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <ul class="blocktabs blocktabs-2 nav nav-pills">
+             <li class="nav-item">
+              <a class="nav-link active show" data-toggle="tab" href="#label3">Shell Scripts</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " data-toggle="tab" href="#label2">Command Line Tools</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link " data-toggle="tab" href="#label1">Network Dashboards</a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-6 text-center tab-content">
+
+          <div class="tab-pane active panel-box panel-box-2" id="label3">
+            <div class="img-placeholder"> <img data-src="../assets/img/features/shell-scripts.svg" class="img-fluid lazy" alt="Shell script" style="max-width: 387px; max-height: 213px; margin-bottom: 3%;"></div>
+            <div class="side-box">Shell script to automate the task of connecting up multi-org network on hyperledger fabric with hyperledger composer.</div>
+              <div class="text-center">
+          </div>
+          </div>
+          <div class="tab-pane panel-box panel-box-2" id="label2">
+            <div class="img-placeholder"> <img data-src="../assets/img/features/command-line.svg" class="img-fluid lazy" alt="Command line" style="max-width: 387px; max-height: 213px; margin-bottom: 3%;"></div>
+            <div class="side-box">Command line tools to join a POA(clique) network on ethereum.</div>
+               <div class="text-center">
+          </div>
+          </div>
+          <div class="tab-pane panel-box panel-box-2" id="label1">
+            <div class="img-placeholder"> <img data-src="../assets/img/features/network-dashboard.svg" class="img-fluid lazy" alt="network dashboard" style="max-width: 387px; max-height: 213px; margin-bottom: 3%;"></div>
+            <div class="side-box">UI for adding and proposing ethereum nodes , ethereum & hyperledger blockchain explorers and dashboard to monitor your network status .</div>
+               <div class="text-center">
+          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section>
+  <div class="container">
+    <div class="section-bottom">
+    <header class="section-header text-center">
+          <h2>Our Blockchain Deployment Projects</h2>
+          <div class="bottom-border"></div>
+        </header>
+      </div>
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+        <div class="service-project">
+          <div class="project-text">
+            <h4>ZChain</h4>
+            <p><b>Loyalty Exchange Marketplace</b></p>
+            <p>Developing a platform where admin can create multiple isolated token exchange and can be used in loyalty programs, supply chain products.</p>
+            <a href="https://www.zchain.cloud/" target="_blank" class="arrow">View Project</a>
+          </div>
+          <div>
+            <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/projects/zchain_dashboard.png" alt="Zchain" class="img-fluid lazy">
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12 col-12">
+        <div class="service-project">
+          <div class="project-text">
+            <h4>Zineum</h4>
+            <p><b>Decentralized Retail Data Marketplace</b></p>
+            <p>A decentralized exchange using 0x protocol on Ethereum blockchain to build a platform that allows users to use crypto to tradecrypto, Forex, Stocks and other assets.</p>
+            <a href="#" target="_blank" class="arrow">View Project</a>
+          </div>
+          <div>
+            <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/projects/zineum_mockup.png" alt="Zineum" class="img-fluid lazy">
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+<section id="faqs" class="faq-section">
+<div class="container-fluid">
+  <header class="section-header text-center">
+   <h2>Frequently Asked Questions</h2>
+          <div class="bottom-border"></div>
+        </header>
+        <br>
+                    <div class="col-lg-12">
+                        <div class="faq" id="accordion">
+                            <div class="card">
+                                <div class="card-header" id="faqHeading-1">
+                                    <div class="mb-0">
+                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
+                                            <span class="badge">1</span> What is Blockchain as a Service?
+                                            <span  class="accordion-arrow"><i class="fa fa-chevron-right"></i></span>
+                                        </h5>
+                                    </div>
+                                </div>
+                                <div id="faqCollapse-1" class="collapse" aria-labelledby="faqHeading-1" data-parent="#accordion">
+                                    <div class="faq-card">
+                                        <p>Blockchain as a service is cloud-based software service  which gives leverage to customers to build, host and use their own blockchain  apps, smart contracts, and functions on the blockchain while the cloud-based service provider manages all the necessary tasks and activities to keep the infrastructure agile and operational. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="faqHeading-2">
+                                    <div class="mb-0">
+                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2" data-aria-expanded="false" data-aria-controls="faqCollapse-2">
+                                            <span class="badge">2</span> Why Do Businesses and Organizations Need Blockchain as a Service (BaaS)?
+                                            <span  class="accordion-arrow"><i class="fa fa-chevron-right"></i></span>
+                                        </h5>
+                                    </div>
+                                </div>
+                                <div id="faqCollapse-2" class="collapse" aria-labelledby="faqHeading-2" data-parent="#accordion">
+                                    <div class="faq-card">
+                                        <p>Blockchain-as-a-service models have succeeded in making blockchain development simpler and safe for organizations whose core competencies are in fields, but not in IT. Using this new model can help organizations focus more on their core areas while worrying less about the development space. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="faqHeading-3">
+                                    <div class="mb-0">
+                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3" data-aria-expanded="false" data-aria-controls="faqCollapse-3">
+                                            <span class="badge">3</span> How using of Blockchain as a Service (BAAS) are Beneficial?
+                                            <span  class="accordion-arrow"><i class="fa fa-chevron-right"></i></span>
+                                        </h5>
+                                    </div>
+                                </div>
+                                <div id="faqCollapse-3" class="collapse" aria-labelledby="faqHeading-3" data-parent="#accordion">
+                                    <div class="faq-card">
+                                        <p>Using BaaS is beneficial as it offers a wide array of consensus mechanisms, provides an easy solution to your complex deployment, as it easy to manage permission levels, nodes and keys from one single control panel and costs comparatively lower than building a blockchain app from scratch. </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="faqHeading-4">
+                                    <div class="mb-0">
+                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4" data-aria-expanded="false" data-aria-controls="faqCollapse-4">
+                                            <span class="badge">4</span> How to select right BaaS platform?
+                                            <span  class="accordion-arrow"><i class="fa fa-chevron-right"></i></span>
+                                        </h5>
+                                    </div>
+                                </div>
+                                <div id="faqCollapse-4" class="collapse" aria-labelledby="faqHeading-4" data-parent="#accordion">
+                                    <div class="faq-card">
+                                        <p>Before you go ahead into Blockchain as a Service integration, you should know which provider can provide you with the right type of solution. </p>
+                                        <p>A. Backend services like data security, costing control, integrating with network architecture, scalable process control.</p>
+                                        <p>B. Rapid provisioning provides the ability to deploy blockchain networks quickly without any issues.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header" id="faqHeading-5">
+                                    <div class="mb-0">
+                                        <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-5" data-aria-expanded="false" data-aria-controls="faqCollapse-5">
+                                            <span class="badge">5</span> How Does Blockchain as a Service (BaaS) Work?
+                                            <span  class="accordion-arrow"><i class="fa fa-chevron-right"></i></span>
+                                        </h5>
+                                    </div>
+                                </div>
+                                <div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5" data-parent="#accordion">
+                                    <div class="faq-card">
+                                        <p>BaaS is when an external service provider sets up all the necessary “blockchain technology and infrastructure” for a customer for a fee. By paying for BaaS, a client pays the BaaS provider to set up and maintain blockchain connected nodes on their behalf. A BaaS provider handles the complex back-end for the client and their business. Well, we follow an intensive development process by keeping the cost minimal to ensure the best result.</p>
+                                        <p>Request us for a free quote or contact our team, and we will get back to you with a feasible timeline and cost. <a href="https://quillhash.typeform.com/to/KQ5Hhm" target="_blank"> click here</a></p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+                  </div>
+                </div>
+                </section>
+
+<section id="blogs" class="blog-bg">
+  <div class="container-fluid">
+    <div class="section-bottom">
+        <header class="section-header-white text-center heading white-heading">
+          <h2>Blockchain Deployment Insights</h2>
+          <div class="bottom-border-white"></div>
+        </header>
+    </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+     <div class="col-lg-6 col-md-6 col-sm-12 col-12 board">
+        <div class="blog-grid">
+          <a href="https://medium.com/quillhash/connecting-enterprises-with-blockchain-current-roadblocks-and-future-solutions-83816a8d7245" rel="nofollow noopener" target="_blank" aria-label="Connecting Enterprises">
+          <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/blogs/blog-19.png" class="img-fluid lazy" alt="Connecting Enterprises"></a>
+            <h4> With Blockchain, Current Roadblocks And Future Solutions !</h4>
+            <p>It’s been 11 years since blockchain been with us and everyone knows it’s potential to improve many industry, still there has been no major breakthrough except cryptocurrencies...</p>
+            <div class="text-left">
+            <a href="https://medium.com/quillhash/connecting-enterprises-with-blockchain-current-roadblocks-and-future-solutions-83816a8d7245" rel="nofollow noopener" target="_blank" aria-label="Hyperledger"><button>Read This Blog</button></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12 board">
+        <div class="blog-grid">
+          <a href="https://medium.com/quillhash/script-to-set-up-hyperledger-fabric-composer-multi-organization-network-96bc5f7ed2f5" rel="nofollow noopener" target="_blank" aria-label="Hyperledger">
+          <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/blogs/blog-6.png" class="img-fluid lazy" alt="Hyperledger"></a>
+            <h4>Script to set up Hyperledger Fabric composer multi-organization network !!</h4>
+            <p>This article series consists of two parts. In Part 1, I will provide you a shell script to automate the task of connecting up multi-org network on hyperledger fabric with hyperledger...</p>
+            <div class="text-left">
+            <a href="https://medium.com/quillhash/script-to-set-up-hyperledger-fabric-composer-multi-organization-network-96bc5f7ed2f5" rel="nofollow noopener" target="_blank" aria-label="Hyperledger"><button>Read This Blog</button></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-2 read-more text-center">
+         <a href="https://medium.com/quillhash">
+        <button type="submit" class="blog-btn">Read More Blogs</button>
+        </a> 
+        </div>
+  </div>
+</div>
+</section>
+
+<section>
+ <div class="container-fluid text-center">
+        <header class="section-header text-center heading blue-heading">
+          <h2>Our Awards And Recognitions</h2>
+          <div class="bottom-border"></div>
+        </header>
+        <div class="row">
+        <div class="col-lg-4 awards-block">
+      <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/awards-recognition/good-firms.svg" alt="Awards and Recognition" class="img-fluid lazy">
+    </div>
+    <div class="col-lg-4 awards-block">
+      <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/awards-recognition/cio.svg" alt="Awards and Recognition" class="img-fluid lazy">
+    </div>
+    <div class="col-lg-4 awards-block">
+      <img data-src="https://ukaccess.s3-ap-southeast-1.amazonaws.com/quillhash/awards-recognition/clutch.svg" alt="Awards and Recognition" class="img-fluid lazy">
+    </div>
+</div>
+</div>
+</section>
+
+<section class="project-bg text-center">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-lg-8 col-md-8 board">
+        <h4>Interested in exploring Blockchain for your business?</h4>
+      </div>
+      <div class="col-lg-4 col-md-4 board wow fadeInLeft">
+        <a href="https://quillhash.typeform.com/to/KQ5Hhm" rel="nofollow noopener" target=“_blank”><button>Start Your Project</button></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+        <div class="container-fluid">
+      <header class="section-header text-center">
+          <h2>Get in Touch</h2>
+          <div class="bottom-border"></div>
+        </header>
+        <div class="row">
+          <div class="col-lg-12 global-contact">
+            <h4><b>Our Global Offices:</b></h4>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-6 map-contact">
+            <h4>Singapore</h4>
+            <p>111 North Bridge Rd, #21-01 Peninsula Plaza, Singapore <br> 179098</p>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-6 map-contact">
+            <h4>India</h4>
+            <p>448-A EnKay Square , Opposite Cyber Hub , Gurugram , Haryana, India 122016</p>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-6 map-contact">
+            <h4>United Kingdom</h4>
+            <p>57, Creighton Road, South Ealing, W5 4SH</p>
+          </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-6 map-contact">
+            <h4>Contact Info</h4>
+             <p><b>Sales:</b><span><a href="mailto:hello@quillhash.com"> hello@quillhash.com</a></span></p>
+             <p><b>HR:</b><span><a href="mailto:hr@quillhash.com"> hr@quillhash.com</a></span></p>
+          </div>
+            <!-- <div class="col-lg-2 col-md-2 col-sm-6 col-6 map-contact">
+            <h4>Community</h4>
+            <p class="font-icons"><b><a href="https://t.me/quillhash" rel="nofollow noopener" target="_blank" aria-label="Telegram Quillhash"><i class="fa fa-telegram"></i> Telegram </a></b></p>
+            <p class="font-icons"><b><a href="https://github.com/quillhash" rel="nofollow noopener" target="_blank" aria-label="Github Quillhash"><i class="fa fa-github"></i> Github </a></b></p>
+          </div> -->
+        </div>
+    </div>
+</section>
+
+<footer class="mainfooter">
+  <div class="footer-middle">
+  <div class="container text-center">
+    <div class="row">
+      <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+        <div class="footer-pad">
+          <h4>Our Products</h4>
+         <ul class="list-unstyled">
+            <li><a href="https://trace.quillhash.com/" rel="nofollow noopener" aria-label="QuillTrace" target="_blank">QuillTrace</a></li>
+            <li><a href="https://audits.quillhash.com/smart-contract-audit" rel="nofollow noopener" target="_blank" aria-label="QuillAudits">QuillAudits</a></li>
+            <li><a href="https://dnft.quillhash.com/" rel="nofollow noopener" target="_blank" aria-label="dNFT">dNFT</a></li>
+            <li><a href="https://tokenic.quillhash.com/tokensale-platform" rel="nofollow noopener" target="_blank" aria-label="Tokenic">Tokenic</a></li>
+            <!-- <li><a href="https://chakra.quillhash.com/smart-contracts" rel="nofollow noopener" target="_blank" aria-label="QuillChakra">QuillChakra</a></li> -->         
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+        <div class="footer-pad">
+          <h4>Our Services</h4>
+          <ul class="list-unstyled">
+            <li><a href="/blockchain-consulting">Blockchain Consultancy</a></li>
+            <li><a href="/hyperledger-development-services">Hyperledger Services</a></li>
+            <li><a href="/quorum-development">Quorum Development</a></li>
+            <li><a href="/stablecoin-development">Stablecoin Development</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+        <div class="footer-pad">
+          <h4>Company</h4>
+          <ul class="list-unstyled">
+            <li><a href="/about-us">About</a></li>
+            <li><a href="/case-studies/">Case Studies</a></li>
+            <li><a href="https://medium.com/quillhash" rel="nofollow noopener" target="_blank" aria-label="Quillhash Blogs">Blogs</a></li>
+            <li><a href="/careers">Careers</a></li>
+            <li><a href="/news" target="_blank">QuillHash in the News</a></li>
+            <li><a href="/quillhash-labs">Recent Events</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+
+        <div class="footer-pad newsletter text-left">
+          <h4>Newsletter</h4>
+          <p style="font-family: 'PT Mono', monospace;font-size: 14px;">Sign up the Newsletter to stay up to date latest Research & Case Studies on Blockchain Technology.</p>
+          <a href="/newsletter" rel="nofollow noopener" aria-label="subscribe" target="_blank"><button class="subscribe-grid-arrow">Subscribe</button></a>
+        </div>
+      </div>
+     
+    </div>
+
+  </div>
+  </div>
+  </footer>
+
+<section id="copyright">
+ <div class="container">
+  <div class="footer-border" style="border-top: 1px solid #fff;">
+      <div class="row" style="margin-top: 2%;">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12 footer-copy copyright">
+          <p>©2020 Quillhash Technologies Pvt. Ltd.
+            <span><a href="https://github.com/quillhash" rel="nofollow noopener" target="_blank" class="icoGithub" title="Github" aria-label="Github"><i class="fa fa-github"></i></a>
+            <a href="https://twitter.com/QuillHash" rel="nofollow noopener" target="_blank" class="icoTwitter" title="Twitter" aria-label="Twitter"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/company/quillhash/" rel="nofollow noopener" target="_blank" class="icoLinkedin" title="Linkedin" aria-label="linkedin"><i class="fa fa-linkedin"></i></a>
+            <a href="https://medium.com/quillhash" rel="nofollow noopener" target="_blank" class="icoMedium" title="Medium" aria-label="Medium"><i class="fa fa-medium"></i></a>
+            <a href="https://t.me/quillhash" rel="nofollow noopener" target="_blank" class="icoTelegram" title="Telegram" aria-label="Telegram"><i class="fa fa-telegram"></i></a>
+            <a href="https://www.facebook.com/quillhash/" rel="nofollow noopener" target="_blank" class="icoFacebook" title="Facebook" aria-label="Facebook"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.youtube.com/channel/UC5Yt_8qEaAr-PiTMmGBuPCQ/" rel="nofollow noopener" target="_blank" class="icoFacebook" title="youtube" aria-label="youtube"><i class="fa fa-youtube-play"></i></a>
+          </span>
+          </p>
+    
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12 footer-copy1 copyright1">
+          <p><a href="/privacy-policy" target="_blank"> Privacy Policy</a> | <a href="/sitemap.xml" target="_blank"> Sitemap</a></p>
+         
+        </div>
+      </div>
+    </div>
+    </div>
+    </section>
+
+    <div id="news-signup">
+    <div class="wrapper">
+      <div id="news-signup_close"></div>
+      <div class="newsletter-content">
+        <h2>Get The Latest Research And Case Studies On Blockchain Technology Delivered Directly In Your Inbox. </h2>
+        <p>Join Our Newsletter</p>
+        <a href="https://labs.quillhash.com/blockchain-development-trainings" rel="nofollow noopener" aria-label="Quillhash Labs" target="_blank">
+        <img src="assets/img/quillhash-labs.png" alt="Quillhash Labs"></a>
+        <br>
+        <br>
+        <div class="signup-form newsletter-form" id="signup-form">
+          <p>
+            <input type="text" name="email" id="news_signup_email" placeholder="Enter your Email">
+          </p>
+          <button class="button subscribe-button" type="button" id="subscribe_newsletter">Subscribe</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+  <a href="#" class="back-to-top" aria-label="top" data-scrollto="#intro"><i class="fa fa-chevron-up"></i></a>
+
+
+  <script src="../assets/lib/jquery/jquery.min.js"></script>
+  <script src="../assets/lib/easing/easing.min.js"></script>
+  <script src="../assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/lib/mobile-nav/mobile-nav.js"></script>
+  <script src="../assets/lib/wow/wow.min.js"></script>
+  <script src="../assets/js/main-min.js"></script>
+  <script src="../assets/js/ajax-min.js"></script>
+</body>
+</html>

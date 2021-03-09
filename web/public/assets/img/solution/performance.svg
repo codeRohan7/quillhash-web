@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134.442" height="110" viewBox="0 0 134.442 110">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="134.442" height="110" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_24_basic_bar-chart" data-name="24 / basic / bar-chart" clip-path="url(#clip-path)">
+    <path id="icon" d="M12.221,110A12.236,12.236,0,0,1,0,97.779V12.221A12.236,12.236,0,0,1,12.221,0h110a12.236,12.236,0,0,1,12.221,12.221V97.779A12.236,12.236,0,0,1,122.221,110Zm0-12.221h110V12.221h-110ZM85.558,85.558V42.779H97.779V85.558Zm-24.448,0V24.442H73.332V85.558Zm-24.442,0V48.889H48.889V85.558Z" fill="#082865"/>
+  </g>
+</svg>
